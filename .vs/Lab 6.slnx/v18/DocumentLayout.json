@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Lab 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA9A38A-59EC-42C4-81E8-8606D3B32328}|Lab 6.vcxproj|C:\\Users\\User\\Desktop\\Lab 6\\AverageGrade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FA9A38A-59EC-42C4-81E8-8606D3B32328}|Lab 6.vcxproj|solutionrelative:AverageGrade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA9A38A-59EC-42C4-81E8-8606D3B32328}|Lab 6.vcxproj|C:\\Users\\User\\Desktop\\Lab 6\\WorkingDays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FA9A38A-59EC-42C4-81E8-8606D3B32328}|Lab 6.vcxproj|solutionrelative:WorkingDays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AverageGrade.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Lab 6\\AverageGrade.cpp",
+              "RelativeDocumentMoniker": "AverageGrade.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Lab 6\\AverageGrade.cpp",
+              "RelativeToolTip": "AverageGrade.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-10T08:51:05.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkingDays.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Lab 6\\WorkingDays.cpp",
+              "RelativeDocumentMoniker": "WorkingDays.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Lab 6\\WorkingDays.cpp",
+              "RelativeToolTip": "WorkingDays.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-10T08:30:07.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
